@@ -1,4 +1,4 @@
-This repository contains a Jupyter Notebook that demonstrates how to predict stock prices using machine learning models (LSTM, GRU, and baseline approaches). It walks step by step through data collection, preprocessing, model building, training, evaluation, and visualization.
+This repository contains a Jupyter Notebook that demonstrates how to predict stock prices using machine learning models (LSTM). It walks step by step through data collection, preprocessing, model building, training, evaluation, and visualization.
 
 **Project Overview**
 
